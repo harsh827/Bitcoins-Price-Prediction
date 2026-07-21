@@ -1,5 +1,10 @@
 # Bitcoin Price Prediction in Databricks
 
+[![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Databricks](https://img.shields.io/badge/Platform-Databricks-FF3621?logo=databricks&logoColor=white)](https://www.databricks.com/)
+[![Model](https://img.shields.io/badge/Model-Linear%20Regression-2E8B57)](#model-training)
+
+
 
 ## Project Overview
 
